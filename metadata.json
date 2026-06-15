@@ -1,0 +1,6 @@
+{
+  "name": "HR Kisti",
+  "description": "A modern installment tracking SaaS dashboard for managing customers, payments, and books.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
